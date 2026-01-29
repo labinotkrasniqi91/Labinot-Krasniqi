@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Architect 2026: AI App Blueprint",
+  "description": "A futuristic dashboard and interactive consultant for building next-generation AI applications based on the 2026 layered architecture and agentic workflow principles.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
